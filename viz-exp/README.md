@@ -3,10 +3,13 @@ Here you can find a collection *Python* notebooks providing examples of data vis
 
 ## Data visualization
 
-To start with, we consider two popular datasets on the *UCI* repository.
+To start with, we consider three popular datasets on the *UCI* repository.
 
 #### [*Iris* dataset](./visualization_iris.ipynb)
 The [*Iris* dataset](https://archive.ics.uci.edu/dataset/53/iris) contains physical measurements of iris flowers, as the predictive attributes, accompanied by the indication of the species each specimen belongs to, as the class. It is the main example dataset used in part I of the course, on classification.
+
+#### [*Dry Bean* dataset](./visualization_drybean.ipynb)
+The [*Dry Bean* dataset](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset) contains measurements automatically derived from digital images of bry beans taken following a standardized protocol using a high-resolution camera. It is the main example dataset used in part II of the course, on clustering.
 
 #### [*Glass Identification* dataset](./visualization_glass.ipynb)
 The [*Glass Identification* dataset](https://archive.ics.uci.edu/dataset/42/glass+identification) contains information about the chemical properties of glass samples and the task typically considered is to predict the type of glass of each sample.
